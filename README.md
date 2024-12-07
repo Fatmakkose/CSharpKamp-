@@ -1,3 +1,6 @@
+![C#](https://github.com/user-attachments/assets/d098ad0a-5bad-443b-9572-18c73a748fb5)
+
+
 🚀 C# EĞİTİM KAMPI PROJELERİ
 
 Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 9 projeyi içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu. Aşağıda her projeye dair teknik detayları bulabilirsiniz:
@@ -39,5 +42,7 @@ Bu projede,Kullanıcıdan almış olduğumuz değerleri döndürmeyi öğrendim.
 Son olarak bu projede,SQL tarafında oluşturduğumuz verileri C# ile birleştirmeyi öğrendim. 
 
 Bu sayede hem veri tabanına adım atmış oldum hem de C# öğrenmeme yardımcı oldu.
+
+
 
 
