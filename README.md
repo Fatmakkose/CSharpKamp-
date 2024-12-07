@@ -1,3 +1,5 @@
+Bu form da, turistik gezi ve rehberlik sistemi için istatistiksel verileri görselleştirmek amacıyla C# ile geliştirilmiş olup, veri yönetimi ve işleme süreçlerinde Entity Framework kullandık ve bu projede veri tabanı ile etkileşimlerin dinamik ve optimize edilmiş bir şekilde gerçekleşmesini sağlamış olduk.
+
 ![C#](https://github.com/user-attachments/assets/d098ad0a-5bad-443b-9572-18c73a748fb5)
 
 
